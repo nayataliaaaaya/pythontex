@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{pythontex}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{caption}
+
+% Cover Page Setup
+\title{The Circumplex Model of Emotion}
+\author{Russel, James A.}
+\date{2025}
+\vspace{10cm} 
+
+\begin{document}
+
+
+
+
+
+% Cover Page
+\maketitle
+\begin{center}
+    \vfill
+    \Large
+    \textbf{Cebu Technological University} \\
+    \vspace{0.90cm}
+    Submitted by: Caballes, Natalia Mae P. \\
+    \vspace{0.90cm}
+    Date: \2025
+    \vfill
+\end{center}
+\newpage
+
+% Abstract
+\begin{abstract}
+The Circumplex Model of Emotion, developed by James Russell in 1980, provides a comprehensive framework for understanding emotions by categorizing them along two primary dimensions: valence (pleasant vs. unpleasant) and arousal (high vs. low). This model represents emotions in a circular format, allowing for a nuanced understanding of their interrelationships and the continuous nature of emotional experiences. The current study explores the applicability of the Circumplex Model in various contexts, including clinical psychology and emotional regulation, demonstrating its utility in identifying emotional states and informing therapeutic interventions. Findings indicate that this model not only aids in the recognition and differentiation of emotions but also offers valuable insights into the complexities of emotional experiences across different populations.
+\end{abstract}
+
+\section{Introduction}
+The study of emotions has long been a focal point in psychology, with various theories attempting to categorize and explain the complex nature of emotional experiences. Traditional models often classified emotions as discrete entities, leading to a fragmented understanding of their relationships. In contrast, the Circumplex Model of Emotion, proposed by Russell, offers a dimensional approach that emphasizes the continuous and interrelated nature of emotions.
+ \vspace{1cm}
+According to this model, emotions are organized within a two-dimensional circular space defined by valence and arousal. Valence refers to the intrinsic attractiveness (pleasantness) or averseness (unpleasantness) of an emotion, while arousal denotes the intensity of the emotional experience, ranging from high activation (e.g., excitement) to low activation (e.g., calmness). This framework allows for a systematic representation of emotions, where emotions that are similar are located close to each other on the circumplex, while those that are more distinct are positioned further apart.
+ \vspace{1cm}
+Recent research has highlighted the relevance of the Circumplex Model in various fields, including clinical psychology, where it aids in understanding emotional disorders and developing targeted interventions. The model’s ability to capture the dynamic interplay between different emotional states makes it a valuable tool for both researchers and practitioners. However, despite its advantages, the model also faces criticisms regarding its oversimplification of emotional experiences and the potential cultural limitations in its application.
+\vspace{3cm}
+\section{Methodology}
+The Circumplex Model of Emotion uses multidimensional scaling (MDS) to graphically represent emotional relationships based on similarity judgments, revealing the dimensions of valence and arousal.  Factor analysis then confirms this two-dimensional structure by analyzing ratings of emotions on valence and arousal scales.  Circular scaling ensures even spacing of emotions on the circumplex.  The triangulation of these methods—MDS, factor analysis, and circular scaling—strengthens the model's reliability and validity, providing a robust, dimensional framework for understanding emotions.
+\end{figure}
+
+\section{Conclusion}
+The Circumplex Model of Emotion provides a powerful and intuitive way to represent human emotions. By positioning emotions along valence and arousal dimensions, it reveals how feelings relate to each other and supports dynamic emotional analysis. This model remains central to research in emotional regulation, affective science, and user experience design.
+
+\end{document}
